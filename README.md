@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:800000,100:ff4500&height=220&section=header&text=EdwinGC&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:0EA5E9,100:38BDF8&height=220&section=header&text=EdwinGC&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%" />
   <a href="https://github.com/EdwinGC02">
-    <img src="https://img.shields.io/badge/Follow%20Me-ff4500?style=for-the-badge&logo=github&logoColor=white&labelColor=800000" alt="Follow EdwinGC02" />
+    <img src="https://img.shields.io/badge/Follow%20Me-0EA5E9?style=for-the-badge&logo=github&logoColor=white&labelColor=0B1220" alt="Follow EdwinGC02" />
   </a>
 </p>
 
@@ -35,11 +35,12 @@ Desarrollador enfocado en construir aplicaciones web de alto rendimiento, escala
 ### 📊 Mis Estadísticas de GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EdwinGC02&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdwinGC02&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EdwinGC02&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=38BDF8&icon_color=0EA5E9&text_color=E0F2FE&bg_color=0B1220" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdwinGC02&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&title_color=38BDF8&text_color=E0F2FE&bg_color=0B1220" />
 </p>
 
 ### 🕋 Perspectiva de Contribuciones
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EdwinGC02&theme=tokyonight" width="100%" />
 </p>
@@ -52,19 +53,19 @@ Si buscas un developer comprometido con la excelencia técnica o quieres colabor
 
 <p align="left">
   <a href="mailto:edwingelvez2002@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-0EA5E9?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://linkedin.com/in/edwin-gélvez-3415673b9">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://wa.me/573174806560">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+    <img src="https://img.shields.io/badge/WhatsApp-0284C7?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
   <a href="https://t.me/EdwinGC02">
-    <img src="https://img.shields.io/badge/Telegram-26A6E1?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
+    <img src="https://img.shields.io/badge/Telegram-38BDF8?style=flat-square&logo=telegram&logoColor=0B1220" alt="Telegram" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:800000,100:ff4500&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:0EA5E9,100:38BDF8&height=100&section=footer" width="100%" />
 </p>
